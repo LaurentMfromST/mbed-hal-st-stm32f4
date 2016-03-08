@@ -35,6 +35,9 @@
     },
     "stm32f439zi-no-inherit": {
       "mbed-hal-st-stm32f429zi": "^1.0.0"
+    },
+    "stm32f411re-no-inherit": {
+      "mbed-hal-st-stm32f411re": "^0.1.1"
     }
   }
 }
